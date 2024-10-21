@@ -1,4 +1,5 @@
 # SecondLink-LoopJava
+
 public class Main {
     int f = 30;
     int g = 45;
